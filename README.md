@@ -32,9 +32,10 @@ INTAKE
     • Access the end-user osTicket URL: http://localhost/osTicket/.
     • Select Open a New Ticket.
     • Fill in the required details for the ticket:
-        o	Ticket Title: Brief description of the issue.
-        o	Ticket Details: Detailed description of the problem or request.
-        o	Help Topic: Choose the relevant help topic (e.g., Business Critical Outage, Software Issue, Hardware Request).
+        o Ticket Title: Brief description of the issue.
+        o Ticket Details: Detailed description of the problem or request.
+        o Help Topic: Choose the relevant help topic (e.g., Business Critical Outage, Software Issue, 
+        Hardware Request).
 
 Ticket Examples
 
