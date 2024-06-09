@@ -88,8 +88,9 @@ WORKING THE ISSUE AND RESOLUTION
 
 •	Resolve and Close Tickets:
 
-    o	After troubleshooting and resolving the reported issues, update the ticket status and add any necessary notes or comments.
-    o	Communicate with users/customers to confirm issue resolution and close the ticket accordingly.
+    o After troubleshooting and resolving the reported issues, update the ticket status and add any 
+    necessary notes or comments.
+    o Communicate with users/customers to confirm issue resolution and close the ticket accordingly.
 
 Ticket Examples
 
